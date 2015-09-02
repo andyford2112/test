@@ -20,5 +20,10 @@ namespace TestSolution
             Console.WriteLine("Hey");
             Console.Read();
         }
+
+        String g()
+        {
+            return "Hey";
+        }
     }
 }
