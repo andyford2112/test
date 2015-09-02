@@ -21,6 +21,11 @@ namespace TestSolution
             Console.Read();
         }
 
+        int f(int i)
+        {
+            return 3;
+        }
+
         String g()
         {
             return "Hey";
